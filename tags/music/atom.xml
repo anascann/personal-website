@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Anas Khan - Music</title>
+    <subtitle>Ramblings on programming, tech and life.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://example/tags/music/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://example/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-05-29T20:30:55+05:30</updated>
+    <id>https://example/tags/music/atom.xml</id>
+    <entry xml:lang="en">
+        <title>My first Music Post Part 1</title>
+        <published>2025-05-29T20:30:55+05:30</published>
+        <updated>2018-05-28T20:30:55+05:30</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://example/posts/biweekly-music-part-1/"/>
+        <id>https://example/posts/biweekly-music-part-1/</id>
+        
+        <content type="html" xml:base="https://example/posts/biweekly-music-part-1/">&lt;p&gt;I do not to a &lt;em&gt;lot&lt;&#x2F;em&gt; of music artists while working or otherwise. I plan to share some of the gems I discover each week. Thanks to Spotify and Youtube suggestions, I keep discovering a lot of indie artists and underrated titles. I hope you give them a listen and spread some good music in your circle.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;tere-jeya-hor-disda&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#tere-jeya-hor-disda&quot; aria-label=&quot;Anchor link for: tere-jeya-hor-disda&quot;&gt;🔗&lt;&#x2F;a&gt;Tere Jeya Hor Disda&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=d_gZTh-HrZE&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.youtube.com&#x2F;vi&#x2F;d_gZTh-HrZE&#x2F;0.jpg&quot; alt=&quot;Tere Jeya Hor Disda&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;awari&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#awari&quot; aria-label=&quot;Anchor link for: awari&quot;&gt;🔗&lt;&#x2F;a&gt;Awari&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=dPAqQI_kOng&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.youtube.com&#x2F;vi&#x2F;dPAqQI_kOng&#x2F;0.jpg&quot; alt=&quot;Awari&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;magpie-jay-bigfoot&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#magpie-jay-bigfoot&quot; aria-label=&quot;Anchor link for: magpie-jay-bigfoot&quot;&gt;🔗&lt;&#x2F;a&gt;Magpie Jay - Bigfoot&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=kXCPLYeDXSI&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.youtube.com&#x2F;vi&#x2F;kXCPLYeDXSI&#x2F;0.jpg&quot; alt=&quot;Magpie Jay - Bigfoot&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-local-train-dilnawaz&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-local-train-dilnawaz&quot; aria-label=&quot;Anchor link for: the-local-train-dilnawaz&quot;&gt;🔗&lt;&#x2F;a&gt;The Local Train - Dilnawaz&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=-gKBXwXBUbk&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.youtube.com&#x2F;vi&#x2F;-gKBXwXBUbk&#x2F;0.jpg&quot; alt=&quot;The Local Train - Dilnawaz&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;a-ha-take-on-me&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-ha-take-on-me&quot; aria-label=&quot;Anchor link for: a-ha-take-on-me&quot;&gt;🔗&lt;&#x2F;a&gt;a-ha - Take On Me&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=djV11Xbc914&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.youtube.com&#x2F;vi&#x2F;djV11Xbc914&#x2F;0.jpg&quot; alt=&quot;a-ha - Take On Me&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;lord-huron-the-night-we-met&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#lord-huron-the-night-we-met&quot; aria-label=&quot;Anchor link for: lord-huron-the-night-we-met&quot;&gt;🔗&lt;&#x2F;a&gt;Lord Huron - The Night We Met&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=KtlgYxa6BMU&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.youtube.com&#x2F;vi&#x2F;KtlgYxa6BMU&#x2F;0.jpg&quot; alt=&quot;Lord Huron - The Night We Met&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;snowmine-let-me-in&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#snowmine-let-me-in&quot; aria-label=&quot;Anchor link for: snowmine-let-me-in&quot;&gt;🔗&lt;&#x2F;a&gt;Snowmine - Let me in&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_y3GfgcgB_E&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.youtube.com&#x2F;vi&#x2F;_y3GfgcgB_E&#x2F;0.jpg&quot; alt=&quot;Snowmine - Let me in&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;glass-animals-pork-soda&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#glass-animals-pork-soda&quot; aria-label=&quot;Anchor link for: glass-animals-pork-soda&quot;&gt;🔗&lt;&#x2F;a&gt;Glass Animals - Pork Soda&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=78DVtcsT26k&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.youtube.com&#x2F;vi&#x2F;78DVtcsT26k&#x2F;0.jpg&quot; alt=&quot;Glass Animals - Pork Soda&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;If you liked the above recommendations or you want to share moar music which I should definitely listen to, tweet to me &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;mrkaran_&quot;&gt;@mrkaran_&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Fin!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

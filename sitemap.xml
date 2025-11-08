@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://example/</loc>
+    </url>
+    <url>
+        <loc>https://example/contact/</loc>
+    </url>
+    <url>
+        <loc>https://example/posts/</loc>
+    </url>
+    <url>
+        <loc>https://example/posts/biweekly-music-part-1/</loc>
+        <lastmod>2018-05-28T20:30:55+05:30</lastmod>
+    </url>
+    <url>
+        <loc>https://example/projects/</loc>
+    </url>
+    <url>
+        <loc>https://example/tags/</loc>
+    </url>
+    <url>
+        <loc>https://example/tags/music/</loc>
+    </url>
+    <url>
+        <loc>https://example/tils/</loc>
+    </url>
+    <url>
+        <loc>https://example/travel-tags/</loc>
+    </url>
+    <url>
+        <loc>https://example/travel/</loc>
+    </url>
+</urlset>
